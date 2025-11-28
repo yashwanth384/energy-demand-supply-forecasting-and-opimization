@@ -1,0 +1,6 @@
+size_kwh,max_kw,round_trip_efficiency,capex_inr,degradation_inr_per_kwh_throughput,calendar_loss_pct_per_year,notes
+50,25,0.9,2200000,1.2,2.0,"LFP, 0.5C"
+100,50,0.92,3700000,1.1,2.0,"LFP, 0.5C"
+150,75,0.92,5100000,1.0,2.0,"LFP, 0.5C"
+200,100,0.93,6400000,0.9,1.8,"LFP, 0.5C"
+300,150,0.93,8800000,0.85,1.8,"LFP, 0.5C"
